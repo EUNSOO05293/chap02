@@ -17,7 +17,6 @@ void CoffeeOrder(void)
     printf("%c 사이즈 %d잔을 주문합니다", coffee, size);
 
 }
-
 int main(void)
 {
     CoffeeOrder();
