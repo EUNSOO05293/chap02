@@ -20,6 +20,7 @@ void Student(void) {
 	scanf("%6lf,", &grade);
 
 	printf("%d 학생의 학점은 %.6f 입니다", num, grade);
+	return;
 
 }
 
